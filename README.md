@@ -1,7 +1,7 @@
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/kytosai/rog-ally-vietnam/main/cover.jpg">
   <br />
-  GÓC NHỎ ASUS ROG Ally Việt Nam
+  Góc nhỏ Asus Rog Ally Việt Nam
 </h1>
 
 <div align="center">
