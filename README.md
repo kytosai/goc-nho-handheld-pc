@@ -8,11 +8,14 @@
 Một góc nhỏ để chia sẽ một số thông tin tìm hiểu được về handheld PC của nhà Asus là Rog Ally
 </div>
 
-# Các đầu mục
+# Mục lục
 
 - [Danh sách bài viết](#danh-sách-bài-viết)
-
 
 ## Danh sách bài viết
 
 - [Cách tắt Turbo boost của CPU](./bai-viet/cach-tat-turbo-boost-cua-cpu/README.md)
+- Chia sẽ linh tinh
+  - [Thử test game Assassin's Creed Odyssey](./chia-se-linh-tinh/thu-test-game-assassin-creed-odyssey/README.md)
+
+[⬆️ Về mục lục](#table-of-contents)
