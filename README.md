@@ -11,7 +11,7 @@ Một góc nhỏ để mình chia sẽ một số thông tin tìm hiểu đượ
 # Mục lục
 
 - [Bài viết](#bài-viết)
-- [Bookmark hay](#bookmark-hay)
+- [Link tham khảo](#link-tham-khảo)
 - [Đôi lời chia sẽ](#đôi-lời-chia-sẽ)
 
 ## Bài viết
@@ -23,7 +23,7 @@ Một góc nhỏ để mình chia sẽ một số thông tin tìm hiểu đượ
   
 [⬆️ Về mục lục](#mục-lục)
 
-## Bookmark hay
+## Link tham khảo
 
 - [Best fan curves and power profiles for the rog ally](https://allyguide.com/software/best-fan-curves-and-power-profiles-for-the-rog-ally)
 
