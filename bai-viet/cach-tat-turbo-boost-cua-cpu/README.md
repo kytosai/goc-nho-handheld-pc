@@ -7,6 +7,7 @@
 
 - Nhưng trước khi bắt tay làm thì câu hỏi là: nếu ngon vậy thì device nào mình cũng tắt cho sướng đi? 
   - ➡️ Câu trả lời là sẽ tuỳ vào game bạn chơi, có những game ăn CPU rất nhiều, hoặc chạy giả lập PS3 một số game cũng đòi hỏi CPU rất nhiều vì vậy việc tắt Turbo boost vô tình làm giảm FPS của game -> phải biết game mình chơi thế nào để quyết định có nên tắt không, đa phần với mình hiện tại 80% game mình chơi đều không cần bật Turbo boost
+  - Một dấu hiệu cơ bản (không phải chính xác hết) để biết nên tắt CPU Turbo boost -> game chạy không hết % của CPU, tức không đạt 80~100% CPU đều đều, ngoài ra cách chính xác nhất là xem feedback từ user từng chơi game hoặc tự test game đó khi bật/tắt luôn là nhanh nhất :D. Setting hướng dẫn bên dưới sẽ có tác dụng liền không phải restart game/win nên test cũng lẹ
 
 - Một số game mình test khi tắt CPU Turbo boost cho mình FPS trước và sau khi tắt trên Rog Ally như nhau là World War Z (ultra setting), Assassin Creed Odyssey/Orgin (medium), giả lập PS3 với RPCS3 (tuỳ game),...
 
