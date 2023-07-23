@@ -6,6 +6,6 @@ Game này nhẹ nên cứ 1080p native mà tán, performance mode, max setting, 
 
 ![](./pw4-01.jpg)
 
-<video src="./pw4-video-01.mp4" width="500" />
+![](./pw4-02.jpg)
 
 Sắp tới sẽ có 1 bản DLC với các char mới (không biết có map mới không)
