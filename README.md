@@ -16,14 +16,14 @@ Một góc nhỏ để mình chia sẽ một số thông tin tìm hiểu đượ
 
 ## Bài viết
 
-- [Hướng dẫn tắt Turbo Boost của CPU](./bai-viet/huong-dan-tat-turbo-boost-cua-cpu/README.md)
+- [Hướng dẫn tắt Turbo Boost của CPU](./bai-viet/huong-dan-tat-turbo-boost-cua-cpu)
 - Giả lập ps3
-  - [Config dành cho game Dynasty Warriors: Gundam 3](./ps3/game-dynasty-warriors-gundam-3/README.md)
+  - [Config dành cho game Dynasty Warriors: Gundam 3](./ps3/game-dynasty-warriors-gundam-3)
 - Chia sẽ (vui vẻ, linh tinh,...)
-  - [Tiện lợi với handheld PC](./chia-se/tien-loi-voi-handheld-pc/README.md)
-  - [Thử test game Assassin's Creed Odyssey](./chia-se/thu-test-game-assassin-creed-odyssey/README.md)
-  - [Thử test game Pirate Warriors 4](./chia-se/thu-test-game-pirate-warriors-4/README.md)
-  - [Thử test game World war z với ultra setting](./chia-se/thu-test-game-world-war-z-voi-ultra-setting/README.md)
+  - [Tiện lợi với handheld PC](./chia-se/tien-loi-voi-handheld-pc)
+  - [Thử test game Assassin's Creed Odyssey](./chia-se/thu-test-game-assassin-creed-odyssey)
+  - [Thử test game Pirate Warriors 4](./chia-se/thu-test-game-pirate-warriors-4)
+  - [Thử test game World war z với ultra setting](./chia-se/thu-test-game-world-war-z-voi-ultra-setting)
   
 [⬆️ Về mục lục](#mục-lục)
 
