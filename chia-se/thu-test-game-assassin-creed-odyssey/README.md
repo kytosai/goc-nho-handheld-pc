@@ -1,4 +1,4 @@
-# Thử test game Assassin's Creed Odyssey
+# Thử test game Assassin's Creed Odyssey (21/07/2023)
 
 Sáng nay (21/07/2023) tải Assassin's Cree Odyssey về test thử với performance mode thì kết quả thu được là:
 

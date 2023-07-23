@@ -15,7 +15,7 @@ Một góc nhỏ để chia sẽ một số thông tin tìm hiểu được về
 ## Danh sách bài viết
 
 - [Cách tắt Turbo boost của CPU](./bai-viet/cach-tat-turbo-boost-cua-cpu/README.md)
-- Chia sẽ linh tinh
-  - [Thử test game Assassin's Creed Odyssey](./chia-se-linh-tinh/thu-test-game-assassin-creed-odyssey/README.md)
+- Chia sẽ
+  - [Thử test game Assassin's Creed Odyssey](./chia-se/thu-test-game-assassin-creed-odyssey/README.md)
 
 [⬆️ Về mục lục](#table-of-contents)
