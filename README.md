@@ -12,11 +12,11 @@ Một góc nhỏ để mình chia sẽ một số thông tin tìm hiểu đượ
 
 - [Danh sách bài viết](#danh-sách-bài-viết)
 
-## Danh sách bài viết
+## Bài viết
 
 - [Cách tắt Turbo boost của CPU](./bai-viet/cach-tat-turbo-boost-cua-cpu/README.md)
-- Chia sẽ
+- Chia sẽ (vui vẻ, linh tinh,...)
+  - [Tiện lợi với handheld PC](./chia-se/tien-loi-voi-handheld-pc/README.md)
   - [Thử test game Assassin's Creed Odyssey](./chia-se/thu-test-game-assassin-creed-odyssey/README.md)
-  - [Tiện lợi với handheld PC](./chia-se/thu-test-game-assassin-creed-odyssey/README.md)
 
 [⬆️ Về mục lục](#mục-lục)
