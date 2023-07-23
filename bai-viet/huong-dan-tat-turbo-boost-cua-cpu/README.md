@@ -1,4 +1,4 @@
-# Cách tắt CPU Turbo Boost cho Rog Ally
+# Hướng dẫn tắt Turbo Boost của CPU cho Rog Ally
 
 ## Dạo đầu
 
