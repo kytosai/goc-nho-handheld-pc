@@ -17,6 +17,8 @@ Một góc nhỏ để mình chia sẽ một số thông tin tìm hiểu đượ
 ## Bài viết
 
 - [Cách tắt Turbo boost của CPU](./bai-viet/cach-tat-turbo-boost-cua-cpu/README.md)
+- Giả lập ps3
+  - [Config dành cho game Dynasty Warriors: Gundam 3](./ps3/game-dynasty-warriors-gundam-3/README.md)
 - Chia sẽ (vui vẻ, linh tinh,...)
   - [Tiện lợi với handheld PC](./chia-se/tien-loi-voi-handheld-pc/README.md)
   - [Thử test game Assassin's Creed Odyssey](./chia-se/thu-test-game-assassin-creed-odyssey/README.md)
