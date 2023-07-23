@@ -1,0 +1,1 @@
+# Cách tắt CPU Turbo Boost
