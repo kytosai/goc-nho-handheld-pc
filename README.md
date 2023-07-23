@@ -21,6 +21,7 @@ Một góc nhỏ để mình chia sẽ một số thông tin tìm hiểu đượ
   - [Tiện lợi với handheld PC](./chia-se/tien-loi-voi-handheld-pc/README.md)
   - [Thử test game Assassin's Creed Odyssey](./chia-se/thu-test-game-assassin-creed-odyssey/README.md)
   - [Thử test game Pirate Warriors 4](./chia-se/thu-test-game-pirate-warriors-4/README.md)
+  - [Thử test game World war z với ultra setting](./chia-se/thu-test-game-world-war-z-voi-ultra-setting/README.md)
   
 [⬆️ Về mục lục](#mục-lục)
 
