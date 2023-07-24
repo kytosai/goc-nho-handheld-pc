@@ -19,6 +19,7 @@ Một góc nhỏ để mình chia sẽ một số thông tin tìm hiểu đượ
 - Hướng dẫn
   - [Hướng dẫn tắt Turbo Boost của CPU](./huong-dan/huong-dan-tat-turbo-boost-cua-cpu)
   - [Cách xem ngày sản xuất máy](./huong-dan/cach-xem-ngay-san-xuat-may)
+  - [Ẩn biểu tượng thùng rác trên desktop của Windows](./huong-dan/an-bieu-tuong-thung-rac-tren-windows)
 - Sửa lỗi
   - [Sữa lỗi âm thanh bị rè rè](./sua-loi/sua-loi-am-thanh-bi-re-re)
 - Giả lập ps3
