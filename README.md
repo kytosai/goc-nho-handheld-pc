@@ -23,7 +23,7 @@ Một góc nhỏ để mình chia sẽ một số thông tin tìm hiểu đượ
 - Sửa lỗi
   - [Sữa lỗi âm thanh bị rè rè](./sua-loi/sua-loi-am-thanh-bi-re-re)
 - Giả lập ps3
-  - [Hướng dẫn cài đặt giả lập PS3 bằng phần mềm RPCS](./ps3/huong-dan-cai-dat-gia-lap-ps3)
+  - [Hướng dẫn cài đặt giả lập PS3 bằng phần mềm RPCS3](./ps3/huong-dan-cai-dat-gia-lap-ps3)
   - [Config dành cho game Dynasty Warriors: Gundam 3](./ps3/game-dynasty-warriors-gundam-3)
 - Chia sẽ (vui vẻ, linh tinh,...)
   - [Tiện lợi với handheld PC](./chia-se/tien-loi-voi-handheld-pc)
