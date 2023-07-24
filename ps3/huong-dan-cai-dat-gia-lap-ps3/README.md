@@ -10,7 +10,7 @@
 
 - Hướng dẫn của mình cũng chỉ dựa trên hướng dẫn gốc của RPCS3 tại trang: https://rpcs3.net/quickstart và một số video trên youtube. Nếu gặp khó khăn với hướng dẫn bên dưới bạn nên tìm trên youtube để dễ hình dung hơn.
 
-## Hướng dẫn
+## Hướng dẫn cài đặt RPCS3
 
 ### Bước 1: 
 
@@ -50,4 +50,33 @@ Sau bước 4 thì nó sẽ hiển thị cửa sổ app RPCS3, trước khi làm
 
 ### Bước 6: 
 
-Sau khi đã có file firmware ta phải tiến hành import nó vào RPCS3
+Sau khi đã có file firmware ta phải tiến hành import nó vào RPCS3. Mở RPCS3 lên sau đó ở góc trên bên trái chọn `File` -> `Install Firmware` -> nó sẽ show một cửa sổ chọn file, hãy chọn đến file `PS3UPDAT.PUP` đã tải trước đó. Sau đó bấm `OPEN`
+
+![](./ps3-06.jpg)
+
+Lúc đó cửa sổ nhỏ loading firmware sẽ hiện ra
+
+![](./ps3-07.jpg)
+
+Sau khi load xong nó sẽ hiển thị cửa sổ báo `Success!` -> bấm Ok
+
+![](./ps3-08.jpg)
+
+Sau khi bấm Ok nó sẽ nhảy tiếp 1 cửa sổ đen để cài đặt firmware tiếp, cứ chờ đến khi nó xong thôi
+
+![](./ps3-09.jpg)
+
+Chạy xong nó sẽ tự đóng cái cửa sổ đen lại. Vậy là bạn cơ bản đã xong cái bước setup đơn giản nhất để có thể chơi game với RPCS3
+
+### Bước 7:
+
+Để có thể sử dụng được các nút gamepad của Rog Ally thì bạn cần phải tinh chỉnh một chút là vào mục icon `Pads` ở cái ô chọn `Handlers` bạn hãy chọn là `XInput` -> sau đó bấm `Save` là xong
+
+![](./ps3-10.jpg)
+
+**LƯU Ý:** khi vào game RPCS3 vui lòng ở `Command Center` của Armoury Crate vui lòng chọn `Control Mode` là `Gamepad` để có thể chơi được bằng gamepad của Rog Ally
+
+![](./ps3-11.jpg)
+
+## Hướng dẫn thêm game vào chơi
+
