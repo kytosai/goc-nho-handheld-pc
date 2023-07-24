@@ -13,3 +13,7 @@
 - Bước 3: Sau đó sẽ có một popup `Desktop Icon Settings` -> bỏ check cái ô `Recycle Bin` -> sau đó bấm `OK` là xong
 
 ![](./hide-recycle-bin-03.jpg)
+
+- Bước 4: ngắm thành quả
+
+![](./hide-recycle-bin-04.jpg)
