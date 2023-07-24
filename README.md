@@ -17,7 +17,7 @@ Một góc nhỏ để mình chia sẽ một số thông tin tìm hiểu đượ
 ## Bài viết
 
 - Hướng dẫn
-  - [Hướng dẫn tắt Turbo Boost của CPU](./bai-viet/huong-dan-tat-turbo-boost-cua-cpu)
+  - [Hướng dẫn tắt Turbo Boost của CPU](./huong-dan/huong-dan-tat-turbo-boost-cua-cpu)
 - Sửa lỗi
   - [Sữa lỗi âm thanh bị rè rè](./sua-loi/sua-loi-am-thanh-bi-re-re/)
 - Giả lập ps3
