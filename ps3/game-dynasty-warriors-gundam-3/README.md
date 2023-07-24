@@ -22,3 +22,5 @@ Thành quả:
 ![](./gundam-01.jpg)
 
 ![](./gundam-02.jpg)
+
+![](./gundam-03.jpg)
