@@ -34,3 +34,7 @@
 ![](./turbo-boost-04.jpg)
 
 - Bước 7: mở lại các cửa sổ và kiểm tra chắc chắn là các option đã được chọn đúng -> Done
+
+- Bước 8: mở lại các game bạn muốn test, mở bảng thông số game, nếu mức CPU không bao giờ vượt quá con số 3300MHz là bạn đã tắt Turbo boost của CPU thành công, như hình dưới của mình là 2321Mhz
+
+![](./turbo-boost-05.jpg)
