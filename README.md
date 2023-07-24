@@ -16,7 +16,10 @@ Một góc nhỏ để mình chia sẽ một số thông tin tìm hiểu đượ
 
 ## Bài viết
 
-- [Hướng dẫn tắt Turbo Boost của CPU](./bai-viet/huong-dan-tat-turbo-boost-cua-cpu)
+- Hướng dẫn
+  - [Hướng dẫn tắt Turbo Boost của CPU](./bai-viet/huong-dan-tat-turbo-boost-cua-cpu)
+- Sửa lỗi
+  - [Sữa lỗi âm thanh bị rè rè](./sua-loi/sua-loi-am-thanh-bi-re-re/)
 - Giả lập ps3
   - [Config dành cho game Dynasty Warriors: Gundam 3](./ps3/game-dynasty-warriors-gundam-3)
 - Chia sẽ (vui vẻ, linh tinh,...)
