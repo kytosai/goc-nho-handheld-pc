@@ -80,3 +80,36 @@ Chạy xong nó sẽ tự đóng cái cửa sổ đen lại. Vậy là bạn cơ
 
 ## Hướng dẫn thêm game vào chơi
 
+### Bước 1: tải game
+
+Bạn có thể tải file game cho ps3 trên google, hiện tại để tìm kiếm link tải game PS3 bạn phải chịu khó một chút vì rất nhiều game được up từ rất lâu nên link đã không thể sử dụng được nữa
+
+Thường khi tải game PS3 về bạn sẽ được file `.zip`, `.iso` bạn phải bung các file này trở thành một thư mục, bình thường trong một của game PS3 sẽ có các folder/file như sau: `PS3_GAME`, `PS3_UPDATE`, `PS3_DISC.SFB` (hoặc có thể khác nữa vì mình các game mình tải đều như vậy)
+
+Bên dưới là thư mục game Dynasty Warriors Gundam 3 mình tải trên mạng về và bung nén
+
+![](./ps3-game-folder.jpg)
+
+### Bước 2: thêm game vào RPCS3
+
+Có nhiều cách để có thể thêm game vào RPCS3, cách đơn giản nhất mình hay sử dụng là kéo thả nguyên cái folder game vào trong RPCS3
+  - Hoặc bạn có thể bấm vào `File` -> `Add Games` -> chọn folder game muốn add vào RPCS3.
+
+![](./ps3-game-01.jpg)
+
+Sau khi thêm thành công ta sẽ được như hình dưới, lúc này ta sẽ có thêm một (hoặc 2 dòng) ta chỉ cần quan tâm dòng có hình đại diện của game thôi
+
+![](./ps3-game-02.jpg)
+
+### Bước 3: chơi game
+
+Để tiến hành chơi tựa game đã được thêm vào ta chỉ đơn giản là double click vào dòng game đã thêm trong dnah sách `Game List` là xong ta sẽ thấy nó start như hình dưới
+
+![](./ps3-game-03.jpg)
+
+**LƯU Ý:** có những game mình tải về import vào RPCS3 bình thường, nhưng khi ở bước start game này nó lại báo lỗi -> bạn có thể thử tải lại game đó trên một nguồn khác. Cụ thể trong hình là game gundam 3 mình đã phải tải ở 2 trang khác nhau thì ở trang thứ 2 mới hoạt động được dù ở trang đầu tìm thấy nó vẫn import và có ảnh bìa game
+
+## Tổng kết
+
+- Những bước trên chỉ là những bước cơ bản để nhập môn giả lập PS3 và còn kha khá những config bạn phải tìm hiểu thêm nhưng chỉnh độ phân giải của game, chỉnh khử răng cưa, chỉnh vsync, nhưng hẹn nó ở một bài khác nha.
+- Như mình đã nói giả lập RPCS3 vẫn chưa hoàn chỉnh, nên sẽ có nhiều tựa game bạn muốn chơi sẽ phải bỏ công sức tìm hiểu cách config một chút để có thể chơi được trọn vẹn game.
