@@ -13,7 +13,7 @@
 
 ## Hướng dẫn
 
-- Bước 1: tải file `processor_performance_boost_mode.zip` ([tại đây](https://github.com/kytosai/goc-nho-asus-rog-ally/raw/main/bai-viet/huong-dan-tat-turbo-boost-cua-cpu/processor_performance_boost_mode.zip))
+- Bước 1: tải file `processor_performance_boost_mode.zip` ([tại đây](https://github.com/kytosai/goc-nho-asus-rog-ally-vietnam/blob/main/huong-dan/huong-dan-tat-turbo-boost-cua-cpu/processor_performance_boost_mode.zip))
 
 - Bước 2: giải nén file .zip trên và ta sẽ có file `processor_performance_boost_mode.reg` file này giúp chúng ta sửa registry của windows tự động thay vì mình phải làm thủ công từng bước trong registry editor -> bấm vào run file này nó sẽ hiển thị thông báo có chắc muốn run không thì cứ `Yes` thôi
 
