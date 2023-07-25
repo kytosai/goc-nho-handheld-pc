@@ -22,6 +22,7 @@ Một góc nhỏ để mình chia sẽ một số thông tin tìm hiểu đượ
   - [Ẩn biểu tượng thùng rác trên desktop của Windows](./huong-dan/an-bieu-tuong-thung-rac-tren-windows)
 - Sửa lỗi
   - [Sữa lỗi âm thanh bị rè rè](./sua-loi/sua-loi-am-thanh-bi-re-re)
+  - [Sữa lỗi không hiển thị các thông tin trên bảng hiển thị thông số CPU, GPU, FPS,...](./sua-loi/sua-loi-khong-hien-thi-cac-thong-tin-tren-bang-hien-thi-thong-so-cpu-gpu-fps)
 - Giả lập ps3
   - [Hướng dẫn cài đặt giả lập PS3 bằng phần mềm RPCS3](./ps3/huong-dan-cai-dat-gia-lap-ps3)
   - [Config dành cho game Dynasty Warriors: Gundam 3](./ps3/game-dynasty-warriors-gundam-3)
@@ -30,15 +31,16 @@ Một góc nhỏ để mình chia sẽ một số thông tin tìm hiểu đượ
   - [Thử test game Assassin's Creed Odyssey](./chia-se/thu-test-game-assassin-creed-odyssey)
   - [Thử test game Pirate Warriors 4](./chia-se/thu-test-game-pirate-warriors-4)
   - [Thử test game World war z với ultra setting](./chia-se/thu-test-game-world-war-z-voi-ultra-setting)
-  
+
 [⬆️ Về mục lục](#mục-lục)
 
 ## Link tham khảo
 
 - Bài viết
   - Hướng dẫn cài đặt quạt và điện năng tiêu thụ cho manual mode - https://allyguide.com/software/best-fan-curves-and-power-profiles-for-the-rog-ally
+  - Lỗi không hiển thị các thông tin trên bảng hiển thị thông số CPU, GPU, FPS,... - https://www.reddit.com/r/ROGAlly/comments/148x3fv/real_time_monitor_not_working/
 - Phần mềm
-  - Phần mềm giải nén 7-zip (giải nén được hầu hết các loại file nén) - https://www.7-zip.org 
+  - Phần mềm giải nén 7-zip (giải nén được hầu hết các loại file nén) - https://www.7-zip.org
 
 [⬆️ Về mục lục](#mục-lục)
 
