@@ -119,5 +119,5 @@ Sau khi thêm thành công ta sẽ được như hình dưới, lúc này ta s�
 
 ## Tổng kết
 
-- Những bước trên chỉ là những bước cơ bản để nhập môn giả lập PS3 và còn kha khá những config bạn phải tìm hiểu thêm nhưng chỉnh độ phân giải của game, chỉnh khử răng cưa, chỉnh vsync, nhưng hẹn nó ở một bài khác nha.
+- Những bước trên chỉ là những bước cơ bản để nhập môn giả lập PS3 và còn kha khá những config bạn phải tìm hiểu thêm như chỉnh độ phân giải của game, chỉnh khử răng cưa, chỉnh vsync, nhưng hẹn nó ở một bài khác nha.
 - Như mình đã nói giả lập RPCS3 vẫn chưa hoàn chỉnh, nên sẽ có nhiều tựa game bạn muốn chơi sẽ phải bỏ công sức tìm hiểu cách config một chút để có thể chơi được trọn vẹn game.

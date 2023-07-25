@@ -44,7 +44,7 @@ Một góc nhỏ để mình chia sẽ một số thông tin tìm hiểu đượ
 
 ## Đôi lời chia sẽ
 
-- Đây là một git repo mình tạo ra mục đích chính chỉ đơn giản là để chia sẽ các thông tin, kinh nghiệm của mình về handheld PC Rog Ally của Asus, hiện tại phần lớn bài viết đều do mình tự cóp nhặt, dịch, tham khảo, sao chép,... đủ hết. Nếu ai đó gặp vấn đề gì với nội dung mình đăng, rất mong mọi người góp ý và hỗ trợ để mình có thể cập nhập thông tin được đúng đắn nhất cho những bạn đang sử dụng Rog Ally giống mình
+- Đây là một git repo mình tạo ra mục đích chính chỉ đơn giản là để chia sẽ các thông tin, kinh nghiệm của mình về handheld PC Rog Ally của Asus, hiện tại phần lớn bài viết đều do mình tự cóp nhặt, dịch, tham khảo, sao chép,... đủ hết. Nếu ai đó gặp vấn đề gì với nội dung mình đăng, rất mong mọi người góp ý và hỗ trợ để mình có thể cập nhập thông tin được đúng đắn nhất cho những bạn đang sử dụng Rog Ally giống mình.
 
 - Xin cảm ơn mọi người 😄!
 
