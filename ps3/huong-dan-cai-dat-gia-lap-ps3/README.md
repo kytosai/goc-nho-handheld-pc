@@ -41,14 +41,22 @@ Khi mở file `rpcs3` lên ta sẽ được cửa sổ như hình dưới. Làm 
 
 ![](./ps3-04.jpg)
 
-### Bước 5: 
+Sau đó thì nó sẽ hiển thị cửa sổ app RPCS3
 
-Sau bước 4 thì nó sẽ hiển thị cửa sổ app RPCS3, trước khi làm tiếp thì ta phải tiếng hành tải firmware của PS3. Bạn vào trang https://www.playstation.com/en-us/support/hardware/ps3/system-software/ -> tìm dòng `Update using a computer` bấm vào để nó hiển thị được cái nút `Download PS3 Update` -> tải file về máy là xong bước này.
+### Bước 5: cài đặt các software cần thiết
+
+Theo yêu cầu từ guide của RPCS3 thì bạn phải tiến hành vào link này https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170#visual-studio-2015-2017-2019-and-2022  -> tìm đến mục `Visual Studio 2015, 2017, 2019, and 2022` -> chọn tải 2 file `vc_redist.x86.exe`, `vc_redist.x64.exe` và tiến hành cài đặt cả 2
+
+![](./ps3-install-software-01.png)
+
+### Bước 6: cài đặt firmware PS3
+
+Tiếp theo thì ta phải tiến hành tải firmware của PS3. Bạn vào trang https://www.playstation.com/en-us/support/hardware/ps3/system-software/ -> tìm dòng `Update using a computer` bấm vào để nó hiển thị được cái nút `Download PS3 Update` -> tải file về máy là xong bước này.
   - Thường firmware của PS3 sẽ là file có tên `PS3UPDAT.PUP`
   
 ![](./ps3-05.jpg)
 
-### Bước 6: 
+### Bước 7: 
 
 Sau khi đã có file firmware ta phải tiến hành import nó vào RPCS3. Mở RPCS3 lên sau đó ở góc trên bên trái chọn `File` -> `Install Firmware` -> nó sẽ show một cửa sổ chọn file, hãy chọn đến file `PS3UPDAT.PUP` đã tải trước đó. Sau đó bấm `OPEN`
 
@@ -68,7 +76,7 @@ Sau khi bấm Ok nó sẽ nhảy tiếp 1 cửa sổ đen để cài đặt firm
 
 Chạy xong nó sẽ tự đóng cái cửa sổ đen lại. Vậy là bạn cơ bản đã xong cái bước setup đơn giản nhất để có thể chơi game với RPCS3
 
-### Bước 7:
+### Bước 8:
 
 Để có thể sử dụng được các nút gamepad của Rog Ally thì bạn cần phải tinh chỉnh một chút là vào mục icon `Pads` ở cái ô chọn `Handlers` bạn hãy chọn là `XInput` -> sau đó bấm `Save` là xong
 

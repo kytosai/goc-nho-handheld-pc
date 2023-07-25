@@ -35,7 +35,10 @@ Một góc nhỏ để mình chia sẽ một số thông tin tìm hiểu đượ
 
 ## Link tham khảo
 
-- [Best fan curves and power profiles for the rog ally](https://allyguide.com/software/best-fan-curves-and-power-profiles-for-the-rog-ally)
+- Bài viết
+  - Hướng dẫn cài đặt quạt và điện năng tiêu thụ cho manual mode - https://allyguide.com/software/best-fan-curves-and-power-profiles-for-the-rog-ally
+- Phần mềm
+  - Phần mềm giải nén 7-zip (giải nén được hầu hết các loại file nén) - https://www.7-zip.org 
 
 [⬆️ Về mục lục](#mục-lục)
 
