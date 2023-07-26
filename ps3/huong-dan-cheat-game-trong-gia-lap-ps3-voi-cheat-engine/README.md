@@ -14,7 +14,7 @@
 
 - Bước 2: Trong cửa sổ `Cheat engine settings` chọn vào mục `Extra Custom Types` bên menu bên trái -> check hết tất cả 3 ô bên tay phải như hình bên dưới, để ta có thể tiến hành tìm kiếm thông số game trên nhiều kiểu dữ liệu khác nữa
 
-![](./cheat-setting-01.jpg.jpg)
+![](./cheat-setting-01.jpg)
 
 - Bước 3: Tiếp tục trong cửa sổ `Cheat engine settings` chọn vào mục `Scan Settings` bên menu bên trái -> check vào ô `All Custom Types` và ô `MEM_MAPPED:Memory that is mapped into the view ò a section...` như hình dưới
 
@@ -28,11 +28,11 @@ Khi tiến hành cheat game bạn phải đảm bảo 2 việc:
 
 - Việc đầu tiên là ở cửa sổ `Process List` khi chọn tiến trình (process) để cheat, **bạn phải chọn process là cửa sổ đang mở game**. Theo như hình dưới thì nó sẽ là mục `(1)` (là process có chứa tên game, như trong hình là `DYNASTY WARR....`) chứ không phải process `(2)` (là process có chữ `RPCS3...` trong đó) 
 
-![](./cheat-setting-01.jpg)
+![](./cheat-guide-01.jpg)
 
 - Việc thứ 2 là khi tiến hành tìm kiếm thông số thì option `Value Type` bạn phải chọn `All` để đảm bảo việc tìm kiếm trên nhiều kiểu dữ liệu khác nhau, bao gồm cả các kiểu `Custom type` mà bạn đã làm ở bước setting ở trên
 
-![](./cheat-setting-02.jpg)
+![](./cheat-guide-02.jpg)
 
 Sau khi đã setting và đảm bảo 2 việc trên thì bạn tiến hành sử dụng Cheat Engine như bình thường. Tuy nhiên việc tìm kiếm vùng nhớ chứa thông số game bây giờ sẽ được **thực hiện rất chậm** nên bạn phải chịu khó đợi nha. 
 
