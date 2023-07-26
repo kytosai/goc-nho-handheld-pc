@@ -25,6 +25,7 @@ Một góc nhỏ để mình chia sẽ một số thông tin tìm hiểu đượ
   - [Sữa lỗi không hiển thị các thông tin trên bảng hiển thị thông số CPU, GPU, FPS,...](./sua-loi/sua-loi-khong-hien-thi-cac-thong-tin-tren-bang-hien-thi-thong-so-cpu-gpu-fps)
 - Giả lập ps3
   - [Hướng dẫn cài đặt giả lập PS3 bằng phần mềm RPCS3](./ps3/huong-dan-cai-dat-gia-lap-ps3)
+  - [Hướng dẫn cheat game trong giả lập PS3 với phần mềm Cheat Engine](./ps3/huong-dan-cheat-game-trong-gia-lap-ps3-voi-cheat-engine)
   - [Config dành cho game Dynasty Warriors: Gundam 3](./ps3/game-dynasty-warriors-gundam-3)
 - Chia sẽ (vui vẻ, linh tinh,...)
   - [Tiện lợi với handheld PC](./chia-se/tien-loi-voi-handheld-pc)
