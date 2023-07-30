@@ -37,7 +37,7 @@ Một góc nhỏ để mình chia sẽ một số thông tin tìm hiểu đượ
 
 [//]: <> (------------- Seperate -------------)
 
-#### 3. `Command center` là gì
+#### 3. `Command center` là gì ?
 
 <details>
   <summary>Xem nội dung</summary>
@@ -53,18 +53,24 @@ Một góc nhỏ để mình chia sẽ một số thông tin tìm hiểu đượ
 
 ## Bài viết
 
-- Hướng dẫn
-  - [Hướng dẫn tắt Turbo Boost của CPU](./huong-dan/huong-dan-tat-turbo-boost-cua-cpu)
-  - [Cách xem ngày sản xuất máy](./huong-dan/cach-xem-ngay-san-xuat-may)
-  - [Ẩn biểu tượng thùng rác trên desktop của Windows](./huong-dan/an-bieu-tuong-thung-rac-tren-windows)
-- Sửa lỗi
-  - [Sữa lỗi âm thanh bị rè rè](./sua-loi/sua-loi-am-thanh-bi-re-re)
-  - [Sữa lỗi không hiển thị các thông tin trên bảng hiển thị thông số CPU, GPU, FPS,...](./sua-loi/sua-loi-khong-hien-thi-cac-thong-tin-tren-bang-hien-thi-thong-so-cpu-gpu-fps)
-- Giả lập ps3
-  - [Hướng dẫn cài đặt giả lập PS3 bằng phần mềm RPCS3](./ps3/huong-dan-cai-dat-gia-lap-ps3)
-  - [Hướng dẫn cheat game trong giả lập PS3 với phần mềm Cheat Engine](./ps3/huong-dan-cheat-game-trong-gia-lap-ps3-voi-cheat-engine)
-  - [Config dành cho game Dynasty Warriors: Gundam 3](./ps3/game-dynasty-warriors-gundam-3)
-- Chia sẽ (vui vẻ, linh tinh,...)
+### Hướng dẫn
+
+- [Hướng dẫn tắt Turbo Boost của CPU](./huong-dan/huong-dan-tat-turbo-boost-cua-cpu)
+- [Cách xem ngày sản xuất máy](./huong-dan/cach-xem-ngay-san-xuat-may)
+- [Ẩn biểu tượng thùng rác trên desktop của Windows](./huong-dan/an-bieu-tuong-thung-rac-tren-windows)
+
+### Sửa lỗi
+
+- [Sữa lỗi âm thanh bị rè rè](./sua-loi/sua-loi-am-thanh-bi-re-re)
+- [Sữa lỗi không hiển thị các thông tin trên bảng hiển thị thông số CPU, GPU, FPS,...](./sua-loi/sua-loi-khong-hien-thi-cac-thong-tin-tren-bang-hien-thi-thong-so-cpu-gpu-fps)
+
+### Giả lập ps3
+
+- [Hướng dẫn cài đặt giả lập PS3 bằng phần mềm RPCS3](./ps3/huong-dan-cai-dat-gia-lap-ps3)
+- [Hướng dẫn cheat game trong giả lập PS3 với phần mềm Cheat Engine](./ps3/huong-dan-cheat-game-trong-gia-lap-ps3-voi-cheat-engine)
+- [Config dành cho game Dynasty Warriors: Gundam 3](./ps3/game-dynasty-warriors-gundam-3)
+
+### Chia sẽ (vui vẻ, linh tinh,...)
   - [Tiện lợi với handheld PC](./chia-se/tien-loi-voi-handheld-pc)
   - [Thử test game Assassin's Creed Odyssey](./chia-se/thu-test-game-assassin-creed-odyssey)
   - [Thử test game Pirate Warriors 4](./chia-se/thu-test-game-pirate-warriors-4)
