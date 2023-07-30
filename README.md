@@ -61,6 +61,21 @@ Một góc nhỏ để mình chia sẽ một số thông tin tìm hiểu đượ
   ![](./faqs/armoury-crate-02.jpg)
 </details>
 
+#### 5. `My Asus` (viết tắt `MA`) là gì?
+
+<details>
+  <summary>Xem nội dung</summary>
+  
+  `My Asus` là một phần mềm được cài đặt sẵn trong Rog Ally, phần mềm này giúp bạn quản lý các cài đặt chung của các thiết bị Asus như: **quản lý cập nhật driver** (quan trọng nhất), xem các thông số của thiết bị, check thông tin bảo hành, serial, liên hệ hỗ trợ từ asus,...
+  
+  ![](./faqs/my-asus-01.jpg)
+
+  ![](./faqs/my-asus-02.jpg)
+
+  Trong hình dưới là mục quan trọng nhất của `My Asus` là mục quản lý các bản cập nhật phần mềm của Rog Ally
+
+  ![](./faqs/my-asus-03.jpg)
+</details>
 
 [⬆️ Về mục lục](#mục-lục)
 
