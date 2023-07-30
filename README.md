@@ -11,15 +11,27 @@ Một góc nhỏ để mình chia sẽ một số thông tin tìm hiểu đượ
 # Mục lục
 
 - [Bài viết](#bài-viết)
+- [FAQs (giải đáp nhanh)](#faqs)
 - [Link tham khảo](#link-tham-khảo)
 - [Đôi lời chia sẽ](#đôi-lời-chia-sẽ)
 
-## Cơ bản
+## FAQs
+
+#### 1. Tên gọi các nút trên mặt trước Rog Ally
+
+<details>
+  <summary>Xem nội dung</summary>
+  <div>
+    <img src="https://raw.githubusercontent.com/kytosai/rog-ally-vietnam/main/faqs/rog-ally-buttons.jpg">
+  </div>
+</details>
+
+[//]: <> (------------- Seperate -------------)
 
 <details>
   <summary><b>Tên gọi các nút trên mặt trước Rog Ally</b></summary>
   <div>
-    <img src="./faqs/rog-ally-buttons.jpg">
+    <img src="https://raw.githubusercontent.com/kytosai/rog-ally-vietnam/main/faqs/rog-ally-buttons.jpg">
   </div>
 </details>
 
@@ -28,11 +40,13 @@ Một góc nhỏ để mình chia sẽ một số thông tin tìm hiểu đượ
 <details>
   <summary><b>Các phím tắt trên Rog Ally</b></summary>
   <div>
-    
+    <img src="https://raw.githubusercontent.com/kytosai/rog-ally-vietnam/main/faqs/rog-ally-key-shortcut.jpg">
   </div>
 </details>
 
 [//]: <> (------------- Seperate -------------)
+
+[⬆️ Về mục lục](#mục-lục)
 
 ## Bài viết
 
