@@ -14,6 +14,26 @@ Một góc nhỏ để mình chia sẽ một số thông tin tìm hiểu đượ
 - [Link tham khảo](#link-tham-khảo)
 - [Đôi lời chia sẽ](#đôi-lời-chia-sẽ)
 
+## Cơ bản
+
+<details>
+  <summary><b>Tên gọi các nút trên mặt trước Rog Ally</b></summary>
+  <div>
+    ![](./faqs/rog-ally-buttons.jpg)
+  </div>
+</details>
+
+[//]: <> (------------- Seperate -------------)
+
+<details>
+  <summary><b>Các phím tắt trên Rog Ally</b></summary>
+  <div>
+    
+  </div>
+</details>
+
+[//]: <> (------------- Seperate -------------)
+
 ## Bài viết
 
 - Hướng dẫn
