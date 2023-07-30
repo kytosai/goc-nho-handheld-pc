@@ -15,17 +15,17 @@ Một góc nhỏ để mình chia sẽ một số thông tin tìm hiểu đượ
 - [Link tham khảo](#link-tham-khảo)
 - [Đôi lời chia sẽ](#đôi-lời-chia-sẽ)
 
-## FAQs
+## FAQs (giải đáp nhanh)
 
 #### 1. Tên gọi các nút trên mặt trước Rog Ally
 
 <details>
   <summary>Xem nội dung</summary>
   
-  ![](./faqs/rog-ally-buttons.jpg)
+  ![](./faqs/rog-ally-buttons-01.jpg)
+  ![](./faqs/rog-ally-buttons-02.jpg)
+  ![](./faqs/rog-ally-buttons-03.jpg)
 </details>
-
-[//]: <> (------------- Seperate -------------)
 
 #### 2. Các phím tắt trên Rog Ally
 
@@ -35,9 +35,7 @@ Một góc nhỏ để mình chia sẽ một số thông tin tìm hiểu đượ
   ![](./faqs/rog-ally-key-shortcut.jpg)
 </details>
 
-[//]: <> (------------- Seperate -------------)
-
-#### 3. `Command center` là gì ?
+#### 3. `Command center` (viết tắt `CC`) là gì?
 
 <details>
   <summary>Xem nội dung</summary>
@@ -45,9 +43,24 @@ Một góc nhỏ để mình chia sẽ một số thông tin tìm hiểu đượ
   Khi bạn bấm phím `Command Center` trên Rog Ally, thì sẽ có một phần mềm trượt từ trái sang phải chiếm 1 phần màn hình bên trái, khu vực này sẽ gọi là `Command Center`
 
   ![](./faqs/command-center-01.jpg)
+
+  Đây là khu vực giúp bạn có những thiết lập nhanh khi sử dụng máy như: thay đổi tần số quét, mở khu vực hiển thị thống kê CPU/GPU/FPS/nhiệt độ,....
 </details>
 
-[//]: <> (------------- Seperate -------------)
+#### 4. `Armoury Crate` (viết tắt `AC`) là gì?
+
+<details>
+  <summary>Xem nội dung</summary>
+  
+  Khi bạn bấm nút `Armoury Crate` trên Rog Ally (nút có biểu tượng vòng tròn), thì sẽ có một phần mềm hiển thị full màn hình chứa danh sách các game/app đầu tiên.
+
+  ![](./faqs/armoury-crate-01.jpg)
+
+  Đây là phần mềm được cài đặt sẵn trong máy giúp bạn quản lý mọi thứ của Rog Ally. VD: cài đặt nút nhấn, cài đặt danh sách game, cài đặt đèn led của joystick,...
+
+  ![](./faqs/armoury-crate-02.jpg)
+</details>
+
 
 [⬆️ Về mục lục](#mục-lục)
 
