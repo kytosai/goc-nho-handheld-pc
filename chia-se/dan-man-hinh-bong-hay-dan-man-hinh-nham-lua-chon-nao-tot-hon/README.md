@@ -16,6 +16,7 @@ Bên dưới là hình mình chụp trong 2 tình huống dán màn hình (xin l
   - Mua miếng dán cường lực dễ dàng
 - Khuyết:
   - Mức độ phản chiếu hình ảnh trên màn hình còn nhiều hơn so với trước khi dán, bởi đơn giản bản thân các màn hình tấm nền gương bây giờ cũng thường sẽ có một lớp phủ chống chói nhẹ rồi
+  - Vì màn hình của Rog Ally là cảm ứng nên ta sẽ phải thường xuyên thao tác trên màn hình, việc dán nhám rất dễ để lại dấu tay trên miếng dán (hoặc có loại tốt đỡ bị bám hơn?)
 
 #### Dán màn hình nhám (matte)
 
