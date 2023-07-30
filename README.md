@@ -21,27 +21,30 @@ Một góc nhỏ để mình chia sẽ một số thông tin tìm hiểu đượ
 
 <details>
   <summary>Xem nội dung</summary>
-  <div>
-    <img src="https://raw.githubusercontent.com/kytosai/rog-ally-vietnam/main/faqs/rog-ally-buttons.jpg">
-  </div>
+  
+  ![](./faqs/rog-ally-buttons.jpg)
 </details>
 
 [//]: <> (------------- Seperate -------------)
 
+#### 2. Các phím tắt trên Rog Ally
+
 <details>
-  <summary><b>Tên gọi các nút trên mặt trước Rog Ally</b></summary>
-  <div>
-    <img src="https://raw.githubusercontent.com/kytosai/rog-ally-vietnam/main/faqs/rog-ally-buttons.jpg">
-  </div>
+  <summary>Xem nội dung</summary>
+  
+  ![](./faqs/rog-ally-key-shortcut.jpg)
 </details>
 
 [//]: <> (------------- Seperate -------------)
 
+#### 3. `Command center` là gì
+
 <details>
-  <summary><b>Các phím tắt trên Rog Ally</b></summary>
-  <div>
-    <img src="https://raw.githubusercontent.com/kytosai/rog-ally-vietnam/main/faqs/rog-ally-key-shortcut.jpg">
-  </div>
+  <summary>Xem nội dung</summary>
+  
+  Khi bạn bấm phím `Command Center` trên Rog Ally, thì sẽ có một phần mềm trượt từ trái sang phải chiếm 1 phần màn hình bên trái, khu vực này sẽ gọi là `Command Center`
+
+  ![](./faqs/command-center-01.jpg)
 </details>
 
 [//]: <> (------------- Seperate -------------)
