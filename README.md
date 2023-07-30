@@ -19,7 +19,7 @@ Một góc nhỏ để mình chia sẽ một số thông tin tìm hiểu đượ
 <details>
   <summary><b>Tên gọi các nút trên mặt trước Rog Ally</b></summary>
   <div>
-    ![](./faqs/rog-ally-buttons.jpg)
+    <img src="./faqs/rog-ally-buttons.jpg">
   </div>
 </details>
 
