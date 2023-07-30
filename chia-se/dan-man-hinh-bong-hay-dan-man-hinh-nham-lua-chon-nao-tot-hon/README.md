@@ -28,8 +28,6 @@ Bên dưới là hình mình chụp trong 2 tình huống dán màn hình (xin l
   - Độ sáng màn hình sẽ bị giảm. Hiểu đơn giản thì dán nhám để độ sáng 70% sẽ như dán bóng để độ sáng 50% (đây là đánh giá của cá nhân mình)
   - Trên thị trường hiện tại kiếm dán cường lực mà loại dán nhám khá là hiếm, hiện ở VN thì mình tìm ở các nơi dễ mua như lazada, shopee thì chưa có, hiện miếng dán mình dán là loại thường, ra tiệm người ta đo rồi cắt cho chứ không phải loại cường lực
 
-
-
 ## Kết luận cá nhân
 
 Sau khi sử dụng ở cả 2 tình huống thì cá nhân mình hướng đến lựa chọn dán bóng sẽ tốt hơn:
