@@ -3,4 +3,3 @@
 ## Đôi lời
 
 - Trong bài viết này mình sẽ hướng dẫn các bạn setting manual mode để bạn có thể 
-

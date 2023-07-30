@@ -67,6 +67,8 @@ Một góc nhỏ để mình chia sẽ một số thông tin tìm hiểu đượ
   <summary>Xem nội dung</summary>
   
   `My Asus` là một phần mềm được cài đặt sẵn trong Rog Ally, phần mềm này giúp bạn quản lý các cài đặt chung của các thiết bị Asus như: **quản lý cập nhật driver** (quan trọng nhất), xem các thông số của thiết bị, check thông tin bảo hành, serial, liên hệ hỗ trợ từ asus,...
+
+  Trong hình bên dưới phần mềm này chính là chỗ mũi tên trỏ tới có icon màu xanh
   
   ![](./faqs/my-asus-01.jpg)
 
@@ -100,6 +102,7 @@ Một góc nhỏ để mình chia sẽ một số thông tin tìm hiểu đượ
 
 ### Chia sẽ (vui vẻ, linh tinh,...)
   - [Tiện lợi với handheld PC](./chia-se/tien-loi-voi-handheld-pc)
+  - [Dán màn hình bóng hay dán màn hình nhám, lựa chọn nào tốt hơn](./chia-se/dan-man-hinh-bong-hay-dan-man-hinh-nham-lua-chon-nao-tot-hon)
   - [Thử test game Assassin's Creed Odyssey](./chia-se/thu-test-game-assassin-creed-odyssey)
   - [Thử test game Pirate Warriors 4](./chia-se/thu-test-game-pirate-warriors-4)
   - [Thử test game World war z với ultra setting](./chia-se/thu-test-game-world-war-z-voi-ultra-setting)
