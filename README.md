@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/kytosai/rog-ally-vietnam/main/cover.jpg">
+  <img src="https://raw.githubusercontent.com/kytosai/goc-nho-handheld-pc/main/asus-rog-ally/cover.jpg" alt="" />
   <br />
   Góc nhỏ handheld PC - Asus Rog Ally
 </h1>
