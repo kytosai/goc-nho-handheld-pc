@@ -4,7 +4,7 @@
 
 1. Luôn luôn cắm điện vào Rog Ally khi tiến hành cập nhật
 2. Tuyệt đối không tắt máy ngang trong quá trình cập nhật phần mềm đang diễn ra
-  - Thỉnh thoảng sẽ có những bản update kéo dài 2~3h là bình thường, nếu quá thời gian này mà vẫn không có động thái gì thì thử tìm kiếm thêm thông tin
+    - Thỉnh thoảng sẽ có những bản update kéo dài 2~3h là bình thường, nếu quá thời gian này mà vẫn không có động thái gì thì thử tìm kiếm thêm thông tin
 3. Tốt nhất là tắt hết các phần mềm đang sử dụng và chỉ để duy nhất phần mềm cập nhật chạy cho đến khi mọi thứ hoàn tất
 
 ### Hướng dẫn
