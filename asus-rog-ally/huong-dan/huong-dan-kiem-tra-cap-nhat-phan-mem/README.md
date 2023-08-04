@@ -3,7 +3,8 @@
 ## TUYỆT ĐỐI LƯU Ý
 
 1. Luôn luôn cắm điện vào Rog Ally khi tiến hành cập nhật
-2. Tuyệt đối không tắt máy trong quá trình cập nhật phần mềm đang diễn ra
+2. Tuyệt đối không tắt máy ngang trong quá trình cập nhật phần mềm đang diễn ra
+  - Thỉnh thoảng sẽ có những bản update kéo dài 2~3h là bình thường, nếu quá thời gian này mà vẫn không có động thái gì thì thử tìm kiếm thêm thông tin
 3. Tốt nhất là tắt hết các phần mềm đang sử dụng và chỉ để duy nhất phần mềm cập nhật chạy cho đến khi mọi thứ hoàn tất
 
 ### Hướng dẫn
@@ -26,7 +27,11 @@ Bước 3: lúc này ta sẽ ở màn hình quản lý các bản cập nhật p
 
 ### Một số tình huống sẽ gặp
 
-Tình huống phần mềm yêu cầu restart lại windows để tiến hành cập nhật
+Tình huống: phần mềm yêu cầu restart lại windows để tiến hành cập nhật 
+  - Thường những bản update yêu cầu restart lại windows là rất dễ lỗi -> vì vậy cần LÀM THEO TẤT CẢ LƯU Ý Ở ĐẦU BÀI VIẾT
 
 ![](./my-asus-update-case-need-restart-device.jpg)
 
+Tình huống: đang sử dụng máy thì bất ngờ popup `Firmware Update Tool` xuất hiện -> bấm `Update` như bình thường và LÀM THEO TẤT CẢ LƯU Ý Ở ĐẦU BÀI VIẾT
+
+![](./my-asus-update-case-popup-update-firmware-tool.jpg)
