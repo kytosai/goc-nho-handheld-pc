@@ -4,6 +4,7 @@
 
 - Wiki: https://en.wikipedia.org/wiki/Dynasty_Warriors:_Gundam_3
 - Chơi trên Rog Ally: https://youtu.be/lT07euLQOU4
+- Serial game PS3: `BLES01301`
 
 ## Hướng dẫn:
 

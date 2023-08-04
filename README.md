@@ -99,6 +99,7 @@ Một góc nhỏ để mình chia sẽ một số thông tin tìm hiểu đượ
 - [Hướng dẫn cài đặt giả lập PS3 bằng phần mềm RPCS3](./asus-rog-ally/ps3/huong-dan-cai-dat-gia-lap-ps3)
 - [Hướng dẫn cheat game trong giả lập PS3 với phần mềm Cheat Engine](./asus-rog-ally/ps3/huong-dan-cheat-game-trong-gia-lap-ps3-voi-cheat-engine)
 - [Config dành cho game Dynasty Warriors: Gundam 3](./asus-rog-ally/ps3/game-dynasty-warriors-gundam-3)
+- [Config dành cho game Dynasty Warriors: Gundam Reborn](./asus-rog-ally/ps3/game-dynasty-warriors-gundam-reborn)
 
 ### Chia sẽ (vui vẻ, linh tinh,...)
   - [Tiện lợi với handheld PC](./asus-rog-ally/chia-se/tien-loi-voi-handheld-pc)
