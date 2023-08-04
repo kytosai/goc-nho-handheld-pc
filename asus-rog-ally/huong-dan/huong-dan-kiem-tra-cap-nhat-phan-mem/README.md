@@ -1,5 +1,13 @@
 # Hướng dẫn cập nhập phần mềm cho Rog Ally bằng phần mềm My Asus (04/08/2024)
 
+## TUYỆT ĐỐI LƯU Ý
+
+1. Luôn luôn cắm điện vào Rog Ally khi tiến hành cập nhật
+2. Tuyệt đối không tắt máy trong quá trình cập nhật phần mềm đang diễn ra
+3. Tốt nhất là tắt hết các phần mềm đang sử dụng và chỉ để duy nhất phần mềm cập nhật chạy cho đến khi mọi thứ hoàn tất
+
+### Hướng dẫn
+
 Bước 1: từ start menu của windows gõ `My asus` để tìm kiếm phần mềm `MyASUS`
 
 ![](./my-asus-update-01.jpg)
@@ -16,8 +24,9 @@ Bước 3: lúc này ta sẽ ở màn hình quản lý các bản cập nhật p
 
 ![](./my-asus-update-03.jpg)
 
-## LƯU Ý
+### Một số tình huống sẽ gặp
 
-1. Luôn luôn cắm điện vào Rog Ally khi tiến hành cập nhật
-2. Tuyệt đối không tắt máy trong quá trình cập nhật phần mềm đang diễn ra
-3. Tốt nhất là tắt hết các phần mềm đang sử dụng và chỉ để duy nhất phần mềm cập nhật chạy cho đến khi mọi thứ hoàn tất
+Tình huống phần mềm yêu cầu restart lại windows để tiến hành cập nhật
+
+![](./my-asus-update-case-need-restart-device.jpg)
+
