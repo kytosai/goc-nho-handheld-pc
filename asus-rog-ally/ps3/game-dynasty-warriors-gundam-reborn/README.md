@@ -16,7 +16,7 @@
 ### Bước 1: Tải patch fix bug cho game và đặt đúng folder cần thiết của RPCS3
 
 - Tải patch lại link: 
-  - Tải tại đây: 
+  - Tải tại đây: https://github.com/kytosai/goc-nho-handheld-pc/raw/main/asus-rog-ally/ps3/game-dynasty-warriors-gundam-reborn/patch.zip 
   - Nếu lỗi tải tại google: https://drive.google.com/file/d/1EZulaPJFj_Ee4aU2CDcIqzmnA1iWbvbT/view
 
 - Sau khi tải về bung nén ra ta sẽ có một file là `patch.yml` tầm 200kb
