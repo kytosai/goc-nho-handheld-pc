@@ -1,5 +1,7 @@
 # Sữa lỗi không hiển thị các thông tin trên bảng hiển thị thông số CPU, GPU, FPS,... (25/07/2023)
 
+- Cập nhật (13/08/2023): lỗi này có vẻ đã được fix ở bản update Armoury crate ở thời điểm hiện tại
+
 ## Mô tả
 
 - Nếu tình cờ một ngày nào đó Rog Ally của bạn có bị lỗi không hiển thị thông số CPU/GPU/FPS mặc dù đã bật tính năng `Real-time Monitor` từ Command Center như hình dưới

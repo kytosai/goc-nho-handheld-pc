@@ -94,6 +94,7 @@ Một góc nhỏ để mình chia sẽ một số thông tin tìm hiểu đượ
 
 - [Sữa lỗi âm thanh bị rè rè](./asus-rog-ally/sua-loi/sua-loi-am-thanh-bi-re-re)
 - [Sữa lỗi không hiển thị các thông tin trên bảng hiển thị thông số CPU, GPU, FPS,...](./asus-rog-ally/sua-loi/sua-loi-khong-hien-thi-cac-thong-tin-tren-bang-hien-thi-thong-so-cpu-gpu-fps)
+- [Sữa lỗi mất hoàn toàn setting bluetooth](./asus-rog-ally/sua-loi/sau-loi-mat-hoan-toan-setting-bluetooth)
 
 ### Giả lập ps3
 
