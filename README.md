@@ -116,12 +116,16 @@ Một góc nhỏ để mình chia sẽ một số thông tin tìm hiểu đượ
 ## Link tham khảo
 
 - Bài viết
+  - Các bài viết hay về Rog Ally - https://rogallylife.com
   - Hướng dẫn cài đặt quạt và điện năng tiêu thụ cho manual mode - https://allyguide.com/software/best-fan-curves-and-power-profiles-for-the-rog-ally
   - Lỗi không hiển thị các thông tin trên bảng hiển thị thông số CPU, GPU, FPS,... - https://www.reddit.com/r/ROGAlly/comments/148x3fv/real_time_monitor_not_working/
 - Game
-  - Cấu hình game Red Dead Redemption 2 cho Rog Ally - https://rog.asus.com/articles/rog-ally/red-dead-redemption-2-on-the-rog-ally-performance-guide--best-settings/
-- Phần mềm
+  - Hướng dẫn setting một số game tối ưu cho Rog Ally - https://rog.asus.com/articles/rog-ally
+- Phần mềm / driver
+  - Driver cho Asus Rog Ally - https://rog.asus.com/gaming-handhelds/rog-ally/rog-ally-2023/helpdesk_download
   - Phần mềm giải nén 7-zip (giải nén được hầu hết các loại file nén) - https://www.7-zip.org
+  - Phần mềm thay thế cho Armoury crate - https://github.com/seerge/g-helper
+  - Phần mềm tắt/bật bloatware - https://github.com/builtbybel/BloatyNosy
 
 [⬆️ Về mục lục](#mục-lục)
 
