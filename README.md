@@ -122,11 +122,12 @@ Một góc nhỏ để mình chia sẽ một số thông tin tìm hiểu đượ
   - Lỗi không hiển thị các thông tin trên bảng hiển thị thông số CPU, GPU, FPS,... - https://www.reddit.com/r/ROGAlly/comments/148x3fv/real_time_monitor_not_working/
 - Game
   - Hướng dẫn setting một số game tối ưu cho Rog Ally - https://rog.asus.com/articles/rog-ally
-- Phần mềm / driver
+- Phần mềm / driver cho Rog Ally
+  - Bổ sung các option độ phân giải mặc định không có cho Rog Ally - https://github.com/AllyPal/Rog-Ally-Custom-Resolutions
   - Driver cho Asus Rog Ally - https://rog.asus.com/gaming-handhelds/rog-ally/rog-ally-2023/helpdesk_download
-  - Phần mềm giải nén 7-zip (giải nén được hầu hết các loại file nén) - https://www.7-zip.org
   - Phần mềm thay thế cho Armoury crate - https://github.com/seerge/g-helper
   - Phần mềm tắt/bật bloatware - https://github.com/builtbybel/BloatyNosy
+  - Phần mềm giải nén 7-zip (giải nén được hầu hết các loại file nén) - https://www.7-zip.org
 
 [⬆️ Về mục lục](#mục-lục)
 
