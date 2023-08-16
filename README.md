@@ -11,7 +11,7 @@ Một góc nhỏ để mình chia sẽ một số thông tin tìm hiểu đượ
 # Mục lục
 
 - [Bài viết](#bài-viết)
-- [FAQs (giải đáp nhanh)](#faqs)
+- [FAQs (giải đáp nhanh)](#faqs-giải-đáp-nhanh)
 - [Link tham khảo](#link-tham-khảo)
 - [Đôi lời chia sẽ](#đôi-lời-chia-sẽ)
 
@@ -105,6 +105,7 @@ Một góc nhỏ để mình chia sẽ một số thông tin tìm hiểu đượ
 - [Config dành cho game Dynasty Warriors: Gundam Reborn](./asus-rog-ally/ps3/game-dynasty-warriors-gundam-reborn)
 
 ### Chia sẽ (vui vẻ, linh tinh,...)
+
   - [Tiện lợi với handheld PC](./asus-rog-ally/chia-se/tien-loi-voi-handheld-pc)
   - [Dán màn hình bóng hay dán màn hình nhám, lựa chọn nào tốt hơn](./asus-rog-ally/chia-se/dan-man-hinh-bong-hay-dan-man-hinh-nham-lua-chon-nao-tot-hon)
   - [Thử test game Assassin's Creed Odyssey](./asus-rog-ally/chia-se/thu-test-game-assassin-creed-odyssey)
