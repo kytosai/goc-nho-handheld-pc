@@ -36,7 +36,9 @@ Tuy nhiên mặc định Rog Ally chỉ cung cấp 2 độ phân giải là 720p
 ## Vài điều cần quan tâm
 
 1. Không cần thiết phải setting độ phân giải màn hình của windows về `900p`, chỉ cần setting trong game nào bạn cần 900p là được
-2. Vì bản thân app Armoury Crate của asus chưa có lựa chọn `900p` nên đôi khi sẽ có lỗi nếu bạn sử dụng tính năng đổi độ phân giải từ `Command Center` 
+2. Theo như thảo luận từ cộng đồng thì độ phân giải `900p` sử dụng kết hợp bật thêm chế độ `RIS` (trong Rog ally đã có sẵn) để đạt hiệu quả tốt nhất
+    - Xem hướng dẫn tại mục `ENABLING AMD RIS` trên trang - https://rogallylife.com/2023/08/15/900p-1600x900-resolution-rog-ally/
+3. Vì bản thân app Armoury Crate của asus chưa có lựa chọn `900p` nên đôi khi sẽ có lỗi nếu bạn sử dụng tính năng đổi độ phân giải từ `Command Center` 
 3. Chỉnh về 900p chỉ là giúp tối ưu thêm một ít FPS, đừng trông chờ vào một phép màu giúp FPS tăng đột biến
 
 ## Link tham khảo
