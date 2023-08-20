@@ -29,6 +29,10 @@ Tuy nhiên mặc định Rog Ally chỉ cung cấp 2 độ phân giải là 720p
 
 **LƯU Ý** nếu vẫn không thấy xuất hiện lựa chọn này thử restart lại windows để kiểm tra lần nữa
 
+Đây là thành quả setting `1600 x 900` xuất hiện trong game
+
+![](./game-01.jpg)
+
 ## Vài điều cần quan tâm
 
 1. Không cần thiết phải setting độ phân giải màn hình của windows về `900p`, chỉ cần setting trong game nào bạn cần 900p là được
