@@ -79,6 +79,20 @@ Một góc nhỏ để mình chia sẽ một số thông tin tìm hiểu đượ
   ![](./asus-rog-ally/faqs/my-asus-03.jpg)
 </details>
 
+#### 6. Các thuật ngữ `720p`, `900p`, `1080p` là gi?
+
+<details>
+  <summary>Xem nội dung</summary>
+  
+  Các thuật ngữ `720p`, `900p`, `1080p` này là đại diện cho viết tắt của các độ phân giải màn hình, đa phần là viết tắt dành cho tỷ lệ màn hình 16:9. 
+
+  Cụ thể các tình huống trên sẽ như sau:
+
+  - `720p` tương đương `1280 x 720` hay còn gọi là HD
+  - `900p` tương đương `1600 x 900`
+  - `1080p` tương đương `1920 x 1080` hay còn gọi là Full HD
+</details>
+
 [⬆️ Về mục lục](#mục-lục)
 
 ## Bài viết
