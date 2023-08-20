@@ -7,7 +7,7 @@ Tuy nhiên mặc định Rog Ally chỉ cung cấp 2 độ phân giải là 720p
 ## Hướng dẫn
 
 - Bước 1: vào trang https://github.com/AllyPal/Rog-Ally-Custom-Resolutions -> bấm vào nút `Code` và nó sẽ xổ một menu xuống -> chọn dòng `Download ZIP` bạn sẽ tải về được một file nén là `Rog-Ally-Custom-Resolutions-main.zip`
-  - Nếu tải link trên không được thì bấm vào đây để tại tại trang của mình
+  - Nếu tải link trên không được thì bấm [tại đây](https://github.com/kytosai/goc-nho-handheld-pc/raw/main/asus-rog-ally/huong-dan/huong-dan-bo-sung-them-nhieu-do-phan-giai-hien-thi/Rog-Ally-Custom-Resolutions-main.zip) để tải
 
 ![](./download-01.jpg)
 
