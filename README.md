@@ -88,6 +88,7 @@ Một góc nhỏ để mình chia sẽ một số thông tin tìm hiểu đượ
 - [Hướng dẫn kiểm tra cập nhật phần mềm](./asus-rog-ally/huong-dan/huong-dan-kiem-tra-cap-nhat-phan-mem)
 - [Hướng dẫn xử lý khi game không nhận các nút bấm của tay cầm](./asus-rog-ally/huong-dan/xu-ly-khi-game-khong-nhan-nut-bam-tay-cam)
 - [Hướng dẫn tắt Turbo Boost của CPU](./asus-rog-ally/huong-dan/huong-dan-tat-turbo-boost-cua-cpu)
+- [Hướng dẫn bổ sung thêm nhiều độ phân giải hiển thị](./asus-rog-ally/huong-dan/huong-dan-bo-sung-them-nhieu-do-phan-giai-hien-thi)
 - [Cách xem ngày sản xuất máy](./asus-rog-ally/huong-dan/cach-xem-ngay-san-xuat-may)
 - [Ẩn biểu tượng thùng rác trên desktop của Windows](./asus-rog-ally/huong-dan/an-bieu-tuong-thung-rac-tren-windows)
 
@@ -106,11 +107,11 @@ Một góc nhỏ để mình chia sẽ một số thông tin tìm hiểu đượ
 
 ### Chia sẽ (vui vẻ, linh tinh,...)
 
-  - [Tiện lợi với handheld PC](./asus-rog-ally/chia-se/tien-loi-voi-handheld-pc)
-  - [Dán màn hình bóng hay dán màn hình nhám, lựa chọn nào tốt hơn](./asus-rog-ally/chia-se/dan-man-hinh-bong-hay-dan-man-hinh-nham-lua-chon-nao-tot-hon)
-  - [Thử test game Assassin's Creed Odyssey](./asus-rog-ally/chia-se/thu-test-game-assassin-creed-odyssey)
-  - [Thử test game Pirate Warriors 4](./asus-rog-ally/chia-se/thu-test-game-pirate-warriors-4)
-  - [Thử test game World war z với ultra setting](./asus-rog-ally/chia-se/thu-test-game-world-war-z-voi-ultra-setting)
+- [Tiện lợi với handheld PC](./asus-rog-ally/chia-se/tien-loi-voi-handheld-pc)
+- [Dán màn hình bóng hay dán màn hình nhám, lựa chọn nào tốt hơn](./asus-rog-ally/chia-se/dan-man-hinh-bong-hay-dan-man-hinh-nham-lua-chon-nao-tot-hon)
+- [Thử test game Assassin's Creed Odyssey](./asus-rog-ally/chia-se/thu-test-game-assassin-creed-odyssey)
+- [Thử test game Pirate Warriors 4](./asus-rog-ally/chia-se/thu-test-game-pirate-warriors-4)
+- [Thử test game World war z với ultra setting](./asus-rog-ally/chia-se/thu-test-game-world-war-z-voi-ultra-setting)
 
 [⬆️ Về mục lục](#mục-lục)
 
@@ -123,8 +124,8 @@ Một góc nhỏ để mình chia sẽ một số thông tin tìm hiểu đượ
 - Game
   - Hướng dẫn setting một số game tối ưu cho Rog Ally - https://rog.asus.com/articles/rog-ally
 - Phần mềm / driver cho Rog Ally
-  - Bổ sung các option độ phân giải mặc định không có cho Rog Ally - https://github.com/AllyPal/Rog-Ally-Custom-Resolutions
   - Driver cho Asus Rog Ally - https://rog.asus.com/gaming-handhelds/rog-ally/rog-ally-2023/helpdesk_download
+  - Bổ sung các option độ phân giải mặc định không có cho Rog Ally - https://github.com/AllyPal/Rog-Ally-Custom-Resolutions
   - Phần mềm thay thế cho Armoury crate - https://github.com/seerge/g-helper
   - Phần mềm tắt/bật bloatware - https://github.com/builtbybel/BloatyNosy
   - Phần mềm giải nén 7-zip (giải nén được hầu hết các loại file nén) - https://www.7-zip.org
