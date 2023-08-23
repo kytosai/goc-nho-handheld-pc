@@ -1,5 +1,9 @@
 # Game Dynasty Warriors Gundam: Reborn (03/08/2023)
 
+## Update thông tin
+
+- **23/08/2023**: tình hình có vẻ như team RPCS3 đã chính thức fix lỗi của game nên không cần thiết phải patch các bước bên dưới để chơi được game - https://twitter.com/rpcs3/status/1693854814172598559
+
 ## Thông tin game
 
 - Giới thiệu: https://gundam.fandom.com/wiki/Dynasty_Warriors_Gundam_Reborn
