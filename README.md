@@ -136,6 +136,7 @@ Một góc nhỏ để mình chia sẽ một số thông tin tìm hiểu đượ
   - Hướng dẫn cài đặt quạt và điện năng tiêu thụ cho manual mode - https://allyguide.com/software/best-fan-curves-and-power-profiles-for-the-rog-ally
   - Lỗi không hiển thị các thông tin trên bảng hiển thị thông số CPU, GPU, FPS,... - https://www.reddit.com/r/ROGAlly/comments/148x3fv/real_time_monitor_not_working/
   - Video thống kê số watt sử dụng và FPS đạt được của Rog Ally, lựa chọn số watt tốt nhất - https://www.youtube.com/watch?v=3SwkrM-FpG8 
+    - Reddit: https://www.reddit.com/r/ROGAlly/comments/1602vt4/choosing_the_best_watts_rog_ally/ 
 - Game
   - Hướng dẫn setting một số game tối ưu cho Rog Ally - https://rog.asus.com/articles/
   rog-ally
