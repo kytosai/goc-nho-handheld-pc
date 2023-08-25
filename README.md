@@ -131,12 +131,14 @@ Một góc nhỏ để mình chia sẽ một số thông tin tìm hiểu đượ
 
 ## Link tham khảo
 
-- Bài viết
+- Bài viết / video
   - Các bài viết hay về Rog Ally - https://rogallylife.com
   - Hướng dẫn cài đặt quạt và điện năng tiêu thụ cho manual mode - https://allyguide.com/software/best-fan-curves-and-power-profiles-for-the-rog-ally
   - Lỗi không hiển thị các thông tin trên bảng hiển thị thông số CPU, GPU, FPS,... - https://www.reddit.com/r/ROGAlly/comments/148x3fv/real_time_monitor_not_working/
+  - Video thống kê số watt sử dụng và FPS đạt được của Rog Ally, lựa chọn số watt tốt nhất - https://www.youtube.com/watch?v=3SwkrM-FpG8 
 - Game
-  - Hướng dẫn setting một số game tối ưu cho Rog Ally - https://rog.asus.com/articles/rog-ally
+  - Hướng dẫn setting một số game tối ưu cho Rog Ally - https://rog.asus.com/articles/
+  rog-ally
 - Phần mềm / driver cho Rog Ally
   - Driver cho Asus Rog Ally - https://rog.asus.com/gaming-handhelds/rog-ally/rog-ally-2023/helpdesk_download
   - Bổ sung các option độ phân giải mặc định không có cho Rog Ally - https://github.com/AllyPal/Rog-Ally-Custom-Resolutions
