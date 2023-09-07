@@ -103,6 +103,7 @@ Một góc nhỏ để mình chia sẽ một số thông tin tìm hiểu đượ
 - [Hướng dẫn xử lý khi game không nhận các nút bấm của tay cầm](./asus-rog-ally/huong-dan/xu-ly-khi-game-khong-nhan-nut-bam-tay-cam)
 - [Hướng dẫn tắt Turbo Boost của CPU](./asus-rog-ally/huong-dan/huong-dan-tat-turbo-boost-cua-cpu)
 - [Hướng dẫn bổ sung thêm nhiều độ phân giải hiển thị](./asus-rog-ally/huong-dan/huong-dan-bo-sung-them-nhieu-do-phan-giai-hien-thi)
+- [Hướng dẫn bật tối ưu đồ hoạ AMD RIS](./asus-rog-ally/huong-dan/huong-dan-bat-toi-uu-do-hoa-amd-ris)
 - [Cách xem ngày sản xuất máy](./asus-rog-ally/huong-dan/cach-xem-ngay-san-xuat-may)
 - [Ẩn biểu tượng thùng rác trên desktop của Windows](./asus-rog-ally/huong-dan/an-bieu-tuong-thung-rac-tren-windows)
 
