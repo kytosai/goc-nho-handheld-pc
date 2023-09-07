@@ -144,8 +144,7 @@ Một góc nhỏ để mình chia sẽ một số thông tin tìm hiểu đượ
     - Reddit: https://www.reddit.com/r/ROGAlly/comments/1602vt4/choosing_the_best_watts_rog_ally/ 
   - Phân biệt các công nghệ của AMD như RIS, RSR và FSR - https://allyguide.com/software/ris-rsr-and-fsr-whats-the-difference/
 - Game
-  - Hướng dẫn setting một số game tối ưu cho Rog Ally - https://rog.asus.com/articles/
-  rog-ally
+  - Hướng dẫn setting một số game tối ưu cho Rog Ally - https://rog.asus.com/articles/rog-ally
 - Phần mềm / driver cho Rog Ally
   - Driver cho Asus Rog Ally - https://rog.asus.com/gaming-handhelds/rog-ally/rog-ally-2023/helpdesk_download
   - Bổ sung các option độ phân giải mặc định không có cho Rog Ally - https://github.com/AllyPal/Rog-Ally-Custom-Resolutions
