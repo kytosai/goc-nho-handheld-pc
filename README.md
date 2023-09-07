@@ -119,6 +119,10 @@ Một góc nhỏ để mình chia sẽ một số thông tin tìm hiểu đượ
 - [Config dành cho game Dynasty Warriors: Gundam 3](./asus-rog-ally/ps3/game-dynasty-warriors-gundam-3)
 - [Config dành cho game Dynasty Warriors: Gundam Reborn](./asus-rog-ally/ps3/game-dynasty-warriors-gundam-reborn)
 
+### Bài viết
+
+- [Phân biệt giữa các công nghệ của AMD như RIS, RSR và FSR](./asus-rog-ally/bai-viet/phan-biet-ris-rsr-va-fsr)
+
 ### Chia sẽ (vui vẻ, linh tinh,...)
 
 - [Tiện lợi với handheld PC](./asus-rog-ally/chia-se/tien-loi-voi-handheld-pc)
